@@ -1,6 +1,6 @@
  # Projeto Busca Filme 
 Projeto de um site onde as pessoas conseguem, encontrar todos os gêneros de filmes, com títulos em inglês e obter todas as informações sobre os filmes buscados. <br> <br>
-
+-a -m
 
 ## Funcionalidades
 
