@@ -1,7 +1,7 @@
  # Projeto Busca Filme 
-Projeto de um site onde as pessoas conseguem, encontrar todos os gêneros de filmes, com títulos em inglês e obter todas as informações sobre os filmes buscados. <br> <br>
+Projeto de um site onde as pessoas conseguem, encontrar todos os gêneros de filmes, com títulos em inglês e obter todas as informações sobre os filmes buscados.  Projeto feito apenas para colocar no meu portifólio e mostrar meus conhecimentos.<br> <br>
 
-<p aligns="center"> <img src="gif/Animação 1.gif" width="893" height="300">  <img src="gif/Animação 2.gif" width="220" height="300"> </p>
+<p aligns="center"> <img src="gif/Animação 1.gif" width="400" height="450">    <img src="gif/Animação 2.gif" width="400" height="450"> </p>
 
 ## Funcionalidades
 
@@ -23,4 +23,4 @@ Projeto de um site onde as pessoas conseguem, encontrar todos os gêneros de fil
 | rayratanisiadigital@gmail.com<br>
 | [Meu Linkedin](https://www.linkedin.com/in/rayra-tanisia-sousa-624578204/)
 
-Este foi meu primeiro projeto feito, para colocar no portifólio e mostrar um pouco das linguagens de tecnologia que estou aprendendo.❤️🚧
+Meu segundo projeto  em construção😍🥰❤️🚧
